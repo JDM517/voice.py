@@ -1,16 +1,6 @@
 # voice.py
 a little voice assistant i made there will be bugs
 
-
-
-
-the code    |
-            v
-
-
-
-
-
 #!/usr/bin/env python3            
 import asyncio
 import os
