@@ -1,0 +1,11 @@
+espeak-ng: Required for text-to-speech voice output.
+
+pipewire-audio: Provides wpctl for controlling system volume.
+
+playerctl: Controls media playback (play/pause, skip) for browsers and media players.
+
+portaudio: Required by PyAudio to capture microphone input.
+
+cpupower: Manages CPU performance modes (performance vs powersave).
+
+kitty & cava: Terminal emulator and visualizer triggered by the toggle_cava command.
